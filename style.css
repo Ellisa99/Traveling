@@ -1,0 +1,93 @@
+html {
+  min-height: 100%;
+}
+.container {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+}
+body {
+  background-color: #2f3035;
+  background-image: url('images/sacha-styles-XK7thML3zEQ-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+header {
+text-align: center;
+height: 120px;
+
+}
+
+
+nav {
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-color: rgba(0, 0, 0, 0.338);
+ 
+}
+nav a {
+  padding-right: 10px;
+  padding-left: 50px;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+nav a:hover {
+  color: aquamarine;
+}
+main {
+ 
+  text-align: center;
+  padding-top: 80px;
+  padding-right: 240px;
+  padding-left: 240px;
+ 
+}
+
+h1 {
+  font-size: 84px;
+  color: rgba(0, 0, 0, 0.79);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+  color: rgba(0, 0, 0, 0.89);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p a{
+  color: rgba(0, 0, 0, 0.89);
+  text-decoration: none;
+}
+p a:hover {
+  color: aquamarine;
+}
+header h1{
+  padding-top: 10px;
+  font-family: 'Sansita Swashed', cursive;
+  color: azure;
+  font-size: 40px;
+  text-shadow: black 0 0 2px;
+}
+p {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.89);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+ 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(0, 0, 0, 0.338);
+ 
+}
+footer p {
+  text-align: center;
+  font-size: 18px;
+  color:black;
+}
+.maps {
+  padding-bottom: 80px;
+}
